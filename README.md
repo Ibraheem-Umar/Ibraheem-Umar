@@ -4,7 +4,7 @@ I am an Electrical Engineering student focused on building robust hardware and l
 
 # Tech Stack & Skills
 - **Hardware/CAD:**
-- , KiCad, Proteus, LTspice, Matlab, AutoCad Electrical
+- KiCad, Proteus, LTspice, Matlab, AutoCad Electrical
 - **Software/Embedded:** C++, Python, MATLAB
 - **Microcontrollers:** STM32, ESP32, Arduino
 
